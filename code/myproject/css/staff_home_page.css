@@ -1,0 +1,14 @@
+﻿body {
+}
+.content input[type=profile]{
+    color:white;
+    margin-left:4vw;
+    margin-top:2vh;
+    padding-bottom:10px;
+    padding-top:10px;
+    padding-left:15px;
+    padding-right:15px;
+    border-radius:6px;
+    border:1px solid;
+    background-color:black;
+}

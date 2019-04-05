@@ -1,0 +1,37 @@
+﻿body {
+    margin:0;
+    padding:0;
+}
+.firstframe{
+     position: relative;  
+  background: #A4A3A3;
+  width: 200px;
+  height: 800px;
+  top: 0px;         
+  left: 0px; 
+
+
+}
+ .firstframe input[type=submit]{
+    border-style: solid;
+    border-color: inherit;
+    border-width: 1px;
+    padding: 10px 15px;
+    color:white;
+    margin-left:4vw;
+    margin-top:2vh;
+    border-radius:6px;
+    background-color:black;
+    margin-right: 6px;
+}
+ .secondframe{
+    
+     position: relative;  
+  background: #A4A3A3;
+  width:850px;
+  height: 800px;
+  left:210px;
+  bottom:800px;
+
+ }
+ 
